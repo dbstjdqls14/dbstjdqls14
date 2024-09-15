@@ -11,7 +11,19 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbstjdqls14&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dbstjdqls14)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungyong20)
+## 📊 GitHub Stats
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=dbstjdqls14&show_icons=true&theme=radical" alt="Anurag's GitHub stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbstjdqls14" alt="Top Langs" />
+    </td>
+  </tr>
+</table>
 
 <div align="center">
   
