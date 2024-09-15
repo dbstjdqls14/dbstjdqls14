@@ -6,7 +6,7 @@
   <!-- Tistory Badge -->
   [<img src="https://img.shields.io/badge/Tistory-%23000000.svg?style=for-the-badge&logo=tistory&logoColor=orange" alt="Tistory" />](https://udangtang-dev.tistory.com/)
 </div>
-
+<hr>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbstjdqls14&show_icons=true&theme=radical)
 
