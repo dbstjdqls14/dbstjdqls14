@@ -9,9 +9,8 @@
 
 <hr>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbstjdqls14&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungyong20)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungyong)
 ## 📊 GitHub Stats
 
 <table>
