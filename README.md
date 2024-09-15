@@ -4,6 +4,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dbstjdqls14)
 
-<a href="https://rowan-swift-32e.notion.site/7ac8e979844246479adf12af7c49476e?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-3776AB?style=flat-square&logo=appveyor&logo=Notion&logoColor=00FF00"/></a>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
+<a href="https://rowan-swift-32e.notion.site/7ac8e979844246479adf12af7c49476e?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-3776AB?style=flat-square&logo=appveyor&logo=Notion&logoColor=#000000"/></a>
