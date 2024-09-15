@@ -1,11 +1,4 @@
-## Hi there 👋
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbstjdqls14&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dbstjdqls14)
-
-<div align="center">
-  
+## 안녕하세요. 새싹 개발자 윤성빈입니다.
 <div align="center">
   
   <!-- Notion Badge -->
@@ -13,3 +6,11 @@
   <!-- Tistory Badge -->
   [<img src="https://img.shields.io/badge/Tistory-%23000000.svg?style=for-the-badge&logo=tistory&logoColor=orange" alt="Tistory" />](https://udangtang-dev.tistory.com/)
 </div>
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbstjdqls14&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dbstjdqls14)
+
+<div align="center">
+  
