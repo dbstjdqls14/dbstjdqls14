@@ -18,7 +18,6 @@
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbstjdqls14" alt="Top Langs" />
-      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dbstjdqls14&layout=compact&theme=dracula)
     </td>
   </tr>
 </table>
