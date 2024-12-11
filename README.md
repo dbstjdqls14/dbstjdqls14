@@ -2,7 +2,7 @@
 <div align="center">
   
   <!-- Notion Badge -->
-  [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />](https://rowan-swift-32e.notion.site/7ac8e979844246479adf12af7c49476e?pvs=4)
+  [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />](https://rowan-swift-32e.notion.site/7ac8e979844246479adf12af7c49476e?pvs=4) ( 대공사 중입니다..! )
   <!-- Tistory Badge -->
   [<img src="https://img.shields.io/badge/Tistory-%23000000.svg?style=for-the-badge&logo=tistory&logoColor=orange" alt="Tistory" />](https://udangtang-dev.tistory.com/)
 </div>
@@ -18,6 +18,7 @@
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbstjdqls14" alt="Top Langs" />
+      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dbstjdqls14&layout=compact&theme=dracula)
     </td>
   </tr>
 </table>
